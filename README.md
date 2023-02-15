@@ -1,4 +1,4 @@
-# Security-Marathon-
+# Security-Marathon- ONGOING
 
 Expected design:
 Electronic Codebook Mode (ECB)
